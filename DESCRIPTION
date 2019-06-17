@@ -1,7 +1,7 @@
 Package: politicaldata
 Type: Package
 Title: Tools for Acquiring and Analyzing Political Data
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: 
     c(person(given = "G. Elliott", family = "Morris", role = c("aut","cre"), email = "elliott@thecrosstab.com"),
       person(given="Comparative Agendas Project", role=c("cph")),
@@ -23,11 +23,11 @@ Suggests: testthat, dplyr, magrittr, tidyr, ggplot2
 Depends: R (>= 2.10)
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-03-13 03:12:07 UTC; elliott
+Packaged: 2019-06-16 19:40:22 UTC; elliott
 Author: G. Elliott Morris [aut, cre],
   Comparative Agendas Project [cph],
   MIT Election and Data Science Lab [cph],
   FiveThirtyEight.com [cph]
 Maintainer: G. Elliott Morris <elliott@thecrosstab.com>
 Repository: CRAN
-Date/Publication: 2019-03-13 06:20:03 UTC
+Date/Publication: 2019-06-17 08:50:03 UTC
